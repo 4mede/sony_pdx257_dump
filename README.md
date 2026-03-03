@@ -1,0 +1,20 @@
+## sssi_64-user 16 BQ2A.250525.001-BP2A.250605.031.A3 QSSI-16.1.0-REL-251127-1835 release-keys
+- Manufacturer: sony
+- Platform: parrot
+- Codename: pdx257
+- Brand: Sony
+- Flavor: sssi_64-user
+- Release Version: 16
+- Kernel Version: 
+- Id: 72.1.A.2.127
+- Incremental: QSSI-16.1.0-REL-251127-1835
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: 420
+- Fingerprint: Sony/pdx257/pdx257:15/AQ3A.250604.001/ELBE-1.1.0-REL-251117-1419:user/release-keys
+- OTA version: 
+- Branch: sssi_64-user-16-BQ2A.250525.001-BP2A.250605.031.A3-QSSI-16.1.0-REL-251127-1835-release-keys
+- Repo: sony_pdx257_dump
